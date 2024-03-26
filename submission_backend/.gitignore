@@ -1,0 +1,14 @@
+configuration.json
+
+cruft/*
+!cruft/.gitkeep
+
+database/*
+!database/.gitkeep
+
+docker_dynamodb/
+submissions
+svenv
+venv
+
+docker_dynamodb
